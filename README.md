@@ -1,3 +1,9 @@
+# This is a fork
+
+This is a fork because the original library is badly written but provides almost what I need. The fixes in this lib allow us to use it as a library.
+
+I strongly encourage us to move away from this lib to a more stable one.
+
 # Licensecc
 
 *Copy protection, licensing library and license generator for Windows and Linux.*
